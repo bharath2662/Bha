@@ -1,1 +1,2 @@
-git push --set-upstream origin master
+this is my computer:wq
+
